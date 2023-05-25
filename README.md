@@ -32,7 +32,7 @@ README.md: Detailed information about the project, including instructions for ru
 **Usage**
 To access the loan eligibility prediction system, follow these steps:
 
-Access the deployed application on the Streamlit Cloud platform using the provided URL
+Deployed application on the Streamlit Cloud platform
 
 Input the necessary information, such as age, income, employment status, credit history, and loan amount.
 
