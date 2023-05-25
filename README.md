@@ -21,7 +21,7 @@ The dataset used for this project is sourced from Kaggle and contains various at
 The Ridge Classifier model achieves an accuracy of 82% in predicting loan eligibility. This performance demonstrates the effectiveness of the model in making accurate predictions based on the given features.
 
 ## Project Repository 
-The project repository can be found on GitHub at [https://github.com/santhulak/Insurance_Premium_Prediction](https://github.com/santhulak/Loan-Eligibility-Prediction). It contains the following files:
+The project repository can be found on GitHub at https://github.com/santhulak/Loan-Eligibility-Prediction. It contains the following files:
 
 LoanApprovalPrediction.csv: This dataset used for training and testing the model.
 Loan Eligibility Prediction.ipynb: Jupyter Notebook containing the data preprocessing, model training and evaluation process.
